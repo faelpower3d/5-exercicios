@@ -1,0 +1,27 @@
+eu ligaria 2 interruptores 
+    por exemplo
+        interruptor1 on
+        interruptor2 on
+        interruptor3 off
+apos isso vou a sala e verifico quais estão acesas
+vou la e observo que :
+    por exemplo
+        lâmpada 1 acesa
+        lâmpada 2 apagada
+        lâmpada 3 acesa
+volto a salado dos interruptores desligo um interruptor
+    por exemplo
+        interruptor1 on
+        interruptor2 off
+        interruptor3 off
+agora eu volto pela seugnda e ultima vez na sala e verifico quais estão acesa
+    por exemplo
+        lâmpada 1 apagada
+        lâmpada 2 apagada
+        lâmpada 3 acesa
+
+com isso eu consigo deduzier que:
+        interruptor1 = lâmpada 3
+        interruptor2 = lâmpada 1
+        interruptor3 = lâmpada 2
+        
